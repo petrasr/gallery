@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Gallery</string>
+
+  <string name="reload_button">Reload</string>
+  <string name="empty_message">List is empty</string>
+  <string name="toolbar_search">Search</string>
+  <string name="error_message">Something is wrong</string>
+</resources>
